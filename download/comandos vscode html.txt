@@ -1,0 +1,84 @@
+Comandos do vscode para HTML
+! + ENTER - codigo base para html
+<!----> - comentários no código
+
+<h1></h1> - titulo
+
+<p></p> - parágrafo
+
+<br> - quebra de linha
+
+&reg; &copy; marca registrada e copy wirthc
+
+"&#x" caracteres para emogi "1F596" número do emoji copiado do site emogipidia
+";" fechamento
+
+sites para baixar imagens sem restrições
+https://unsplash.com/pt-br
+https://www.pexels.com/pt-br/
+
+<img src="" alt=""> - carregar imagens no site
+            `caminho ou URL`                  `texto alternativo`  
+<img src="imagens/imagem de entrada.jpg" alt="genio"> 
+
+<link rel="shortcut icon" href="imagens/logo_final3.ico" type="image/x-icon"> - icone de favorito
+
+Formatação de texto
+<h1></h1> - títulos hierarquia e crescente
+<h2></h2> - subtitulos
+
+<b></b> e <strong></strong> - negrito, <i></i> e <em></em> - itálico
+<mark></mark> - marcar texto e pode colocar estilos
+<del></del> - texto riscado, <ins></ins> e <u></u> - texto sublinhado
+<sup></sup> - texto sobrescrito Ex:Potênciação, <sub></sub> - texto subscrito Ex: formula de quimica  
+
+    <pre>
+       <code>num = int(imput('Digite um númaero' ))
+             if num % 2 == 0:
+                 print(f'O número {num} é PAR')
+             else:
+                 print(f'O número {num} é IMPAR')
+             print('Fim do programa')
+       </code>
+   </pre> - Organizador de tabulações 
+shift+tabe para tirar tabulações
+<q></q> - citações com aspas
+
+             `descrição da abreviação`          `abreviação`
+<abbr title="Associação dos Funcionários Fiscais">AFFEMG</abbr>
+
+listas
+as listas podem ser misturadas
+ordenadas: 
+<ol type="1" start="4">
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+ordenadas com sublistas:
+<ol type="1" start="4">
+    <li>
+        <li></li>
+        <li></li>
+    </li>
+    <li></li>
+    <li></li>
+</ol>
+listas não ordenadas:
+<ul type="sqare">
+    <li>
+        <li></li>
+        <li></li>
+    </li>
+    <li></li>
+</ul>
+listas de definiçãoes:
+<dt>termo</dt>
+<dd>Definição do termo</dd>
+
+
+
+ 
+
+
+
